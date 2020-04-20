@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Resume of {{basics.name}}</title>
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cv.masonen.de/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <style type="text/css">
     {{{css}}}
@@ -23,7 +23,7 @@
             <!-- PHOTO (AVATAR) -->
             {{#photo}}
             <div id="photo">
-              <img src="{{photo}}" alt="avatar">
+              <img src="https://cv.masonen.de/avatar.jpg" alt="avatar">
             </div>
             {{/photo}}
             <div id="text-header" {{^photo}}style="margin-top: 90px;"{{/photo}}>
