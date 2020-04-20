@@ -34,6 +34,13 @@
       "startDate": "2018-02-18",
       "endDate": "2020-09-30",
       "summary": "Ausbildung zum Fachinformatiker für Anwendungsentwicklung. Schwerpunkte PHP Entwicklung (Typo3, Symfony) sowie Responsive Design in HTML5"
+    },
+    {
+      "company": "Deutsche Telekom Kundenservice (DTKS)",
+      "city": "Leipzig",
+      "startDate": "2015-10-01",
+      "endDate": "2018-02-18",
+      "summary": "Callcenter Agent im technischen Kundenservice der Deutschen Telekom (1st Level Support) als Werksstudent"
     }
   ],
   "volunteer": [
