@@ -176,9 +176,9 @@
       "name": "Mobile-App Development",
       "level": "Novice",
       "keywords": [
-        "react",
-        "react-native",
-        "Expo",
+        "React",
+        "React Native",
+        "Expo SDK",
         "Styled Components"
       ]
     },
