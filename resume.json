@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Benjamin Meißner",
+    "label": "Software Entwickler",
+    "picture": "",
+    "email": "info@masonen.de",
+    "phone": "0163 / 666 54 75",
+    "website": "https://masonen.de",
+    "location": {
+      "address": "Borkumer Weg 4C",
+      "postalCode": "04157",
+      "city": "Leipzig",
+      "countryCode": "DE",
+      "region": "Sachsen"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "masonen",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "benjaminmeissner",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "rasani.design",
+      "position": "Auszubildender",
+      "website": "http://rasani.de",
+      "startDate": "2018-02-18",
+      "endDate": "2020-09-30",
+      "summary": "Ausbildung zum Fachinformatiker für Anwendungsentwicklung. Schwerpunkte PHP Entwicklung (Typo3, Symfony) sowie Responsive Design in HTML5"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Leipzig eSports e.V.",
+      "position": "Serveradministrator",
+      "website": "https://leipzigesports.de/",
+      "startDate": "2016-05-01",
+      "summary": "Administration und Wartung der Serverinfrastruktur des Vereins. Mitarbeit Websiteumsetzung. Administration Vereinshardware."
+    },
+    {
+      "organization": "Leipzig eSports e.V.",
+      "position": "Vertretungsberechtigter Vorstand, Kassenwart",
+      "website": "https://leipzigesports.de/",
+      "startDate": "2016-05-01",
+      "endDate": "2019-09-01",
+      "summary": "Wegbereiter zur Gründung sowie Teil des ersten geschäftsführenden Vorstandes.",
+      "highlights": [
+        "Mitgliederverwaltung",
+        "Buchhaltung",
+        "Teammanager",
+        "Gemeinnützigkeit 2018"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "HTWK Leipzig",
+      "area": "Informatik",
+      "studyType": "Bachelor",
+      "startDate": "2015-10-01",
+      "endDate": "2018-02-18",
+      "gpa": "Ohne Abschluss",
+      "courses": [
+        "Emotionale & soziale Entwicklung",
+        "Körperlich- & motorische Entwicklung"
+      ]
+    },
+    {
+      "institution": "Universität Leipzig",
+      "area": "Lehramt Förderpädagogik",
+      "studyType": "Staatsexamen",
+      "startDate": "2012-10-01",
+      "endDate": "2015-10-01",
+      "gpa": "Ohne Abschluss",
+      "courses": [
+        "Emotionale & soziale Entwicklung",
+        "Körperlich- & motorische Entwicklung"
+      ]
+    },
+    {
+      "institution": "Universität Leipzig",
+      "area": "Lehramt Gymnasium",
+      "studyType": "Bachelor",
+      "startDate": "2009-10-01",
+      "endDate": "2012-10-01",
+      "gpa": "Ohne Abschluss",
+      "courses": [
+        "Mathematik",
+        "Physik"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "fließend"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "jsonresume-theme-kendall-de",
+  "version": "0.1.21",
+  "description": "A JSON Resume theme built with bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Adam Kendall, Tobias Kuhn",
+  "license": "MIT",
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "lodash": "^2.4.1",
+    "mustache": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rugosh/jsonresume-theme-kendall-de.git"
+  },
+  "keywords": [
+    "json",
+    "jsonresume",
+    "theme",
+    "german"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rugosh/jsonresume-theme-kendall-de/issues"
+  },
+  "homepage": "https://github.com/Rugosh/jsonresume-theme-kendall-de"
+}
