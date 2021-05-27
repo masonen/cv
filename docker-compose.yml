@@ -6,4 +6,5 @@ services:
       - "4000:4000"
     volumes:
       - .:/data
-    restart: always
+    restart: unless-stopped
+
