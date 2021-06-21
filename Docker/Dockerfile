@@ -8,4 +8,4 @@ ENV PUPPETEER_SKIP_DOWNLOAD=true \
 RUN npm install -g resume-cli \
     && sed -i~ "s/localhost/0.0.0.0/g" ${NODE_MODULES_PATH}/resume-cli/build/serve.js
 
-CMD ["resume", "serve", "--theme", "kendall"]
+CMD ["resume", "serve", "--theme", "elegant"]
