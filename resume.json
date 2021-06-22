@@ -37,14 +37,14 @@
       "position": "Technical Lead",
       "startDate": "2020-12-01",
       "endDate": "",
-      "summary": "Technical Lead bei powercloud GmbH. Core Team (12 EntwicklerInnen): Focus auf Stack Modernisierun (Symfony, Lean, Legacy-Bridge und Migration. API-Entwicklung. Technical Foundation.)"
+      "summary": "Technical Lead bei powercloud GmbH. Core Team (12 EntwicklerInnen): Focus auf Stack Modernisierung (Symfony, Lean, Legacy-Bridge und Migration Legacy-Code. API-Entwicklung. Technical Foundation.)"
     },
     {
       "company": "powercloud GmbH",
       "position": "Software Entwicker",
       "startDate": "2020-08-01",
       "endDate": "2020-11-30",
-      "summary": "Fullstack Entwicklung bei powercloud GmbH. Symfony Backend und Single Page Application (React), später im Core Team: Focus auf Stack Modernisierun (Symfony, Lean, Legacy-Bridge und Migration. API-Entwicklung. Technical Foundation.)"
+      "summary": "Fullstack Entwicklung bei powercloud GmbH. Symfony Backend und Single Page Application (React), später im Core Team: Focus auf Stack Modernisierung (Symfony, Lean, Legacy-Bridge und Migration Legacy-Code. API-Entwicklung. Technical Foundation.)"
     },
     {
       "company": "rasani.design",
@@ -115,7 +115,7 @@
   "education": [
     {
       "institution": "rasani.design",
-      "area": "Ausbildung: Fachinforamtiker für Anwendungsentwicklung",
+      "area": "Ausbildung: Fachinformatiker für Anwendungsentwicklung",
       "studyType": "apprenticeship",
       "gpa": "78/100",
       "startDate": "2018-02-18",
