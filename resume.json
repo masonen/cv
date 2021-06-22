@@ -115,8 +115,8 @@
   "education": [
     {
       "institution": "rasani.design",
-      "area": "Ausbildung: Fachinformatiker für Anwendungsentwicklung",
-      "studyType": "apprenticeship",
+      "area": "Fachinformatiker für Anwendungsentwicklung",
+      "studyType": "Ausbildung",
       "gpa": "78/100",
       "startDate": "2018-02-18",
       "endDate": "2020-07-31"
