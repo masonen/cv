@@ -34,9 +34,16 @@
   "work": [
     {
       "company": "powercloud GmbH",
+      "position": "Chapter Lead Engineering",
+      "startDate": "2020-12-01",
+      "endDate": "2020-10-14",
+      "summary": "Disziplinarischer Lead für mehrere Entwicklerteams. Servant Leadership. Mitarbeiterfeedback, Karriereplan, Staffing, Mitarbeiterscreening."
+    },
+    {
+      "company": "powercloud GmbH",
       "position": "Technical Lead",
       "startDate": "2020-12-01",
-      "endDate": "",
+      "endDate": "2020-10-14",
       "summary": "Technical Lead bei powercloud GmbH. Core Team (12 EntwicklerInnen): Focus auf Stack Modernisierung (Symfony, Slim Framework, Legacy-Bridge und Migration Legacy-Code. API-Entwicklung. Technical Foundation.)"
     },
     {
